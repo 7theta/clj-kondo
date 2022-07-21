@@ -1,0 +1,2 @@
+{:lint-as {signum.signal/when-hot clojure.core/let}}
+

@@ -1,0 +1,2 @@
+{:lint-as {fontawesome.core/deficon clojure.core/def}}
+

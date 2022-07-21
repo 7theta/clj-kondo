@@ -1,0 +1,4 @@
+{:hooks
+ {:analyze-call
+  {ventus.macros/defnc clj-kondo.lilactown.helix/defnc
+   ventus.macros/$> clj-kondo.lilactown.helix/$}}}

@@ -1,0 +1,4 @@
+{:lint-as {via-schema.core/>fn clojure.core/fn}
+ :linters
+ {:unresolved-symbol
+  {:exclude [(via-schema.core/>fn [=>])]}}}

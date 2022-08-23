@@ -7,7 +7,7 @@
 ;;   the terms of this license.
 ;;   You must not remove this notice, or any others, from this software.
 
-(defproject com.7theta/clj-kondo "0.1.0"
+(defproject com.7theta/clj-kondo "0.1.1"
   :description "clj-kondo configs for 7theta projects"
   :url "https://github.com/7theta/clj-kondo"
   :license {:name "MIT License"
